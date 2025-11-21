@@ -1,0 +1,4 @@
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationService.AssemblyInfoInputs.cache
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationService.AssemblyInfo.cs
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationService.csproj.CoreCompileInputs.cache

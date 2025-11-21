@@ -1,0 +1,11 @@
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\bin\Debug\net8.0\INavigationServiceLibrary.deps.json
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\bin\Debug\net8.0\INavigationServiceLibrary.dll
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\bin\Debug\net8.0\INavigationServiceLibrary.pdb
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationServiceLibrary.AssemblyInfo.cs
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationServiceLibrary.dll
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\refint\INavigationServiceLibrary.dll
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\INavigationServiceLibrary.pdb
+C:\Users\ROZAN\source\repos\Project OOP broookk22\INavigationService\obj\Debug\net8.0\ref\INavigationServiceLibrary.dll
