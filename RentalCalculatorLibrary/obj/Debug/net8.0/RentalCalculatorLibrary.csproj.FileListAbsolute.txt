@@ -1,0 +1,11 @@
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\bin\Debug\net8.0\RentalCalculatorLibrary.deps.json
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\bin\Debug\net8.0\RentalCalculatorLibrary.dll
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\bin\Debug\net8.0\RentalCalculatorLibrary.pdb
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\RentalCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\RentalCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\RentalCalculatorLibrary.AssemblyInfo.cs
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\RentalCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\RentalCalculatorLibrary.dll
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\refint\RentalCalculatorLibrary.dll
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\RentalCalculatorLibrary.pdb
+C:\Users\ROZAN\source\repos\Project OOP broookk22\RentalCalculatorLibrary\obj\Debug\net8.0\ref\RentalCalculatorLibrary.dll
